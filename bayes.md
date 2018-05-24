@@ -1,8 +1,9 @@
-#朴素贝叶斯分类器
+# 朴素贝叶斯分类器
 ## 简介
 朴素贝叶斯分类器Demo
 ## 1. Demo1
 根据身高、体重、脚掌大小预测性别。
+
 样例参照网页：[https://wenku.baidu.com/view/654f1a100622192e453610661ed9ad51f01d54de.html](https://wenku.baidu.com/view/654f1a100622192e453610661ed9ad51f01d54de.html)
 
 **样本：**
